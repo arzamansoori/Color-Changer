@@ -22,5 +22,5 @@ Color Changer website can change the background color of a particular area on th
 #
 Just click on the deployed link below to see the project.
 
-[Name Conversion](https://nameconversionproject.netlify.app/)
+[Color Changer](https://colorchangerproject.netlify.app/)
 
